@@ -20,3 +20,5 @@ For Cairo we have:
  
  * Read code, compile, deploy and interact with a contract with Javascript
  
+ * One of the main tasks has been to solve the challenges here: https://github.com/starknet-edu/starknet-cairo-101
+ 
