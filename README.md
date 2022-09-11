@@ -14,6 +14,8 @@ For Solidity we have:
  
  * Read code, compile, deploy and interact with a contract with Javascript
  
+ * One of the main tasks has been to solve the challenges here: https://github.com/l-henri/solidity-101
+ 
 For Cairo we have:
 
  * Codes written based on the OpenZeppelin framework
