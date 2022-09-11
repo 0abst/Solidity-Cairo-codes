@@ -12,13 +12,13 @@ For Solidity we have:
 
  * Codes written based on the OpenZeppelin framework
  
- * Read code, compile, deploy and interact with a contract with Javascript
+ * Read code, compile, deploy and interact with a contract with Javascript. Use of the Hardhat framework: https://hardhat.org/
  
  * One of the main tasks has been to solve the challenges here: https://github.com/l-henri/solidity-101
  
 For Cairo we have:
 
- * Codes written based on the OpenZeppelin framework
+ * Codes written based on the OpenZeppelin framework (https://github.com/OpenZeppelin/cairo-contracts)
  
  * Read code, compile, deploy and interact with a contract with Javascript
  
