@@ -1,4 +1,4 @@
-# Solidity / Cairo -codes
+# Solidity / Cairo - codes
 
 In this repository, several codes written in Solidity as well as in Cairo are gathered.
 
