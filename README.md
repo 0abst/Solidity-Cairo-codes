@@ -12,7 +12,7 @@ For Solidity we have:
 
  * Codes written based on the OpenZeppelin framework
  
- * Read code, compile, deploy and interact with a contract with Javascript. Use of the Hardhat framework: https://hardhat.org/
+ * Read code, compile, deploy and interact with a contract with Javascript. Use of the Truffle (https://trufflesuite.com/) and the Hardhat (https://hardhat.org/) environments
  
  * One of the main tasks has been to solve the challenges here: https://github.com/l-henri/solidity-101
  
