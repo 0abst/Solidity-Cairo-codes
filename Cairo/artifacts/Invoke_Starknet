@@ -1,0 +1,1 @@
+starknet invoke --address 0x05a56e0237039fa272653caf3f4ddab9483e5a1f90927a5a6d327c2986a888a1 --abi abis/ERC20tutorial.json --function get_tokens --gateway_url https://devnet.braavos.app --feeder_gateway_url https://devnet.braavos.app

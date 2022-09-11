@@ -1,0 +1,37 @@
+[
+    {
+        "inputs": [],
+        "name": "get_historical_prices_len",
+        "outputs": [
+            {
+                "name": "res",
+                "type": "felt"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "update_historical_ticks",
+        "outputs": [
+            {
+                "name": "answer",
+                "type": "felt"
+            }
+        ],
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "test_array_sum",
+        "outputs": [
+            {
+                "name": "sum",
+                "type": "felt"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    }
+]

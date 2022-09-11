@@ -1,0 +1,7 @@
+#call contract
+starknet call --address 0x05a56e0237039fa272653caf3f4ddab9483e5a1f90927a5a6d327c2986a888a1 
+--abi abis/ERC20tutorial.json 
+--function balanceOf 
+--inputs 0x059cb947d73c9c1d12950ff1cf12b7f1959d1c63b02767a22bfd6373a2d5e596 
+--gateway_url https://devnet.braavos.app --feeder_gateway_url https://devnet.braavos.app
+

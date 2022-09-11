@@ -1,0 +1,127 @@
+[
+    {
+        "inputs": [],
+        "name": "tuto_erc20_address",
+        "outputs": [
+            {
+                "name": "_tuto_erc20_address",
+                "type": "felt"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "players_registry",
+        "outputs": [
+            {
+                "name": "_players_registry",
+                "type": "felt"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "name": "account",
+                "type": "felt"
+            },
+            {
+                "name": "exercise_id",
+                "type": "felt"
+            }
+        ],
+        "name": "has_validated_exercise",
+        "outputs": [
+            {
+                "name": "has_validated_exercise",
+                "type": "felt"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "next_rank",
+        "outputs": [
+            {
+                "name": "next_rank",
+                "type": "felt"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "name": "player_address",
+                "type": "felt"
+            }
+        ],
+        "name": "assigned_rank",
+        "outputs": [
+            {
+                "name": "rank",
+                "type": "felt"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "name": "account",
+                "type": "felt"
+            },
+            {
+                "name": "permission",
+                "type": "felt"
+            }
+        ],
+        "name": "set_teacher",
+        "outputs": [],
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "name": "account",
+                "type": "felt"
+            }
+        ],
+        "name": "is_teacher",
+        "outputs": [
+            {
+                "name": "permission",
+                "type": "felt"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "name": "values_len",
+                "type": "felt"
+            },
+            {
+                "name": "values",
+                "type": "felt*"
+            },
+            {
+                "name": "column",
+                "type": "felt"
+            }
+        ],
+        "name": "set_random_values",
+        "outputs": [],
+        "type": "function"
+    }
+]
