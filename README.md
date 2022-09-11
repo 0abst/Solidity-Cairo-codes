@@ -12,7 +12,7 @@ For Solidity we have:
 
  * Codes written based on the OpenZeppelin framework
  
- * Read code, compile, deploy and interact with a contract with Javascript. Use of the Truffle (https://trufflesuite.com/) and the Hardhat (https://hardhat.org/) environments
+ * Read code, compile, deploy and interact with a contract with Javascript. Use of the Truffle (https://trufflesuite.com/) environment
  
  * One of the main tasks has been to solve the challenges here: https://github.com/l-henri/solidity-101
  
@@ -20,7 +20,7 @@ For Cairo we have:
 
  * Codes written based on the OpenZeppelin framework (https://github.com/OpenZeppelin/cairo-contracts)
  
- * Read code, compile, deploy and interact with a contract with Javascript
+ * Read code, compile, deploy and interact with a contract with Javascript. Use of the Hardhat (https://hardhat.org/) environment
  
  * One of the main tasks has been to solve the challenges here: https://github.com/starknet-edu/starknet-cairo-101
  
