@@ -24,3 +24,5 @@ For Cairo we have:
  
  * One of the main tasks has been to solve the challenges here: https://github.com/starknet-edu/starknet-cairo-101
  
+ * Work has also been done with the Warp transpiler (https://github.com/NethermindEth/warp). The Warp transpiler converts code from Solidity to Cairo. The aim was to understand to which extent can such a transpiler be used or is it just better to write all codes in Cairo directly?
+ 
