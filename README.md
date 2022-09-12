@@ -12,9 +12,11 @@ For Solidity we have:
 
  * Codes written based on the OpenZeppelin framework
  
- * Read code, compile, deploy and interact with a contract with Javascript. Use of the Truffle (https://trufflesuite.com/) environment
+ * Read code, compile, deploy and interact with a contract with Javascript. Use of the Truffle (https://trufflesuite.com/) and Hardhat (https://hardhat.org/) environments
  
  * One of the main tasks has been to solve the challenges here: https://github.com/l-henri/solidity-101
+ 
+ * NFTs have also been minted on the Matic Tesnet. Examples can be found on OpenSea using the following URL: https://testnets.opensea.io/0x8A762ACa8C30c095FbFEDc26Db1C70c533E91234
  
 For Cairo we have:
 
